@@ -1,7 +1,7 @@
 import "package:flutter/material.dart";
 
 class DancingMan extends StatefulWidget {
-  const DancingMan({ Key? key }) : super(key: key);
+  const DancingMan({Key? key}) : super(key: key);
 
   @override
   _DancingManState createState() => _DancingManState();
@@ -10,8 +10,10 @@ class DancingMan extends StatefulWidget {
 class _DancingManState extends State<DancingMan> {
   @override
   Widget build(BuildContext context) {
-    return Container(
-      
+    return Scaffold(
+      body: Column(
+        children: [Image.asset("lib/assets/images/dancingCartoon.gif")]
+      ),
     );
   }
 }
