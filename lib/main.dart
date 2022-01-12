@@ -12,11 +12,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        home: const Scaffold(
-          body: Center(child: Text("Hello World!")),
-        ),
-        routes: {
-          MyRoutes.dancingRoute: (context) => const DancingMan(),
-        });
+      debugShowCheckedModeBanner: false,
+      routes: {
+      MyRoutes.dancingRoute: (context) => const DancingMan(),
+    });
   }
 }

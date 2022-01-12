@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		3skqkFdeijsFEHq8lYkc3LPbrOs=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		lkxtbPisqsSAnL4f508Bu17EKqY=
+		SuSgXxJ8HZ0W6ZDoKjIaTnGy/Y4=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -30,7 +30,19 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		dSwnRgbIu1rUvQFWZrob9hKxSB4=
+		CoJAZBRNi7Tz58Quxp7cTe2C8QU=
+		</data>
+		<key>flutter_assets/lib/assets/audio/soundEffect.mp3</key>
+		<data>
+		Ys0eC9OGzvs7Xaw/wXSy4s1j3Ec=
+		</data>
+		<key>flutter_assets/lib/assets/images/dancingCartoon.gif</key>
+		<data>
+		ZWXSUGRMBpdP1JZsM0EdTw7EoNk=
+		</data>
+		<key>flutter_assets/lib/assets/images/stopCartoon.jpg</key>
+		<data>
+		pu6sHmZC2vjidSw1SBkQWn9NuBQ=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -47,7 +59,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			JPnoe1v+AYJpIx+rt+IGTjLaWhUHOhE27qZaJ5hFfNg=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -61,7 +73,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6hR/DIf9XzSxcLGt3NrKLzET0Fgz25iuJISEK3ZsPEw=
+			IXyzj0HMu8MGQd/J+XeleKvEMpC/XbRERwS5Xt2DiMA=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -82,7 +94,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OutGhh3Qdi6Ja4srkEOSXhJByhnjtZzQ6wjPLP1Y2wM=
+			UuC+/gmRyZU05pkoxQAkgHjm0YHhvxq0TKS4wBoJ3MA=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/audio/soundEffect.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LPLrnmt/IaNGTg4xXj2OkLhPXe90n98u9xZL4UDLBKQ=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/dancingCartoon.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8U8cH46zKelni193QqboY7VdRLZQ/nWkV/s4DZqeaSg=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/stopCartoon.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nUYec3+duVc26B+SPwdzFarIaKsLOyv3CCLFtTClBUI=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
