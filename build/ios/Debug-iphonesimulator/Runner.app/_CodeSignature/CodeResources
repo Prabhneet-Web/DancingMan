@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		TaPGC1Opd6BDeY3V8ii43RpAv5M=
+		MB1DTgkI9DwjWAwG3srCWG/aCaI=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		LML3pLzahHcWdpGbqppnNVzRfrY=
+		jprR2+YfHWALTvTT3PuegKeinn8=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		j9hGR8RMwbwNk/eUKkJonbvyxT0=
+		3skqkFdeijsFEHq8lYkc3LPbrOs=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		lkxtbPisqsSAnL4f508Bu17EKqY=
+		SuSgXxJ8HZ0W6ZDoKjIaTnGy/Y4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -142,7 +142,11 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		sOVMofXOmSGTHE+Xuw2hJIqtbjY=
+		CoJAZBRNi7Tz58Quxp7cTe2C8QU=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/lib/assets/audio/soundEffect.mp3</key>
+		<data>
+		Ys0eC9OGzvs7Xaw/wXSy4s1j3Ec=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lib/assets/images/dancingCartoon.gif</key>
 		<data>
@@ -243,6 +247,18 @@
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
 		<data>
 		1QumeTTkdhWvmY7i40QoJewEapE=
+		</data>
+		<key>Frameworks/audioplayer.framework/Info.plist</key>
+		<data>
+		P0W/LMViM1NbJlJ2Z5J6hcmV1m0=
+		</data>
+		<key>Frameworks/audioplayer.framework/_CodeSignature/CodeResources</key>
+		<data>
+		zgNJb3B3dro9xqi9TBt43dvstT4=
+		</data>
+		<key>Frameworks/audioplayer.framework/audioplayer</key>
+		<data>
+		XTN6btDu4Aaxi3GaSvjMk0DCRRI=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -441,7 +457,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JQlW/bsJbm2j/BCmH197O7mFPDNRxRG12MIdrhGsM4I=
+			KTC1Jyif7UdaxFGjDA2v11/OPugRWO9ULE2J6K0YKF0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -455,14 +471,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6FVMIA41M7kMsiSQKiOi5nj6nMqCF9yJKxzjN3IvCU8=
+			PK5/38S5HsHhrzTn0vobQs9Vj6mVw2mZXi0wgYl702g=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fWobnJ1Of0OKdm24owWiXt7rED6YQSOy0Sf53c8VG2U=
+			JPnoe1v+AYJpIx+rt+IGTjLaWhUHOhE27qZaJ5hFfNg=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -476,7 +492,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6hR/DIf9XzSxcLGt3NrKLzET0Fgz25iuJISEK3ZsPEw=
+			IXyzj0HMu8MGQd/J+XeleKvEMpC/XbRERwS5Xt2DiMA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -497,7 +513,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bk/H1Zs7uV2hzYUIZNYbngUvcefaaGsfopggM1ljmgo=
+			UuC+/gmRyZU05pkoxQAkgHjm0YHhvxq0TKS4wBoJ3MA=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/lib/assets/audio/soundEffect.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LPLrnmt/IaNGTg4xXj2OkLhPXe90n98u9xZL4UDLBKQ=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lib/assets/images/dancingCartoon.gif</key>
@@ -673,6 +696,27 @@
 			<key>hash2</key>
 			<data>
 			Y7sS66zRuTsBvhoY8E7AmSrn+3DMMIOCUocmE2apBcw=
+			</data>
+		</dict>
+		<key>Frameworks/audioplayer.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IC3+PAlSiXdXzzwftSmc5WxP7tbUdlc4hKlU7N2tOIw=
+			</data>
+		</dict>
+		<key>Frameworks/audioplayer.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+PgVTusUegnUqSXmj4qFir7DNL/cRcQsIYEWyxDoRkU=
+			</data>
+		</dict>
+		<key>Frameworks/audioplayer.framework/audioplayer</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jvWePImcEekD3DfE9XLItNyAQlbs+OUhgZIEz1RmIsY=
 			</data>
 		</dict>
 	</dict>
