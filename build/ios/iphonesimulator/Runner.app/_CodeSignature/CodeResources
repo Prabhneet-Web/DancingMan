@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		MB1DTgkI9DwjWAwG3srCWG/aCaI=
+		iiWt2aXK4+GnTjM8Ppx0OMUm0fM=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		jprR2+YfHWALTvTT3PuegKeinn8=
+		PVkuzlSxnfTPjUseIxL9o1zJax4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		SuSgXxJ8HZ0W6ZDoKjIaTnGy/Y4=
+		11GcG29yXgKc5JzSF/dZ+JtuxRM=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		CoJAZBRNi7Tz58Quxp7cTe2C8QU=
+		0/vk6H3f0sMOVxoUtCx5Z89XUHM=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lib/assets/audio/soundEffect.mp3</key>
 		<data>
@@ -259,6 +259,30 @@
 		<key>Frameworks/audioplayer.framework/audioplayer</key>
 		<data>
 		XTN6btDu4Aaxi3GaSvjMk0DCRRI=
+		</data>
+		<key>Frameworks/audioplayers.framework/Info.plist</key>
+		<data>
+		MswLvegN+rMlVxR+jaAYUKXxDU8=
+		</data>
+		<key>Frameworks/audioplayers.framework/_CodeSignature/CodeResources</key>
+		<data>
+		vEZVQQ+bac1u75hEU07zBVm+3KA=
+		</data>
+		<key>Frameworks/audioplayers.framework/audioplayers</key>
+		<data>
+		mAKTpdfcsX0h71f5n7Wnrm9W2Zw=
+		</data>
+		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
+		<data>
+		Ad5TlA8IsVuzceudk8SymsQhIkY=
+		</data>
+		<key>Frameworks/path_provider_ios.framework/_CodeSignature/CodeResources</key>
+		<data>
+		vhPPnjMWZyeKEw8vP/5yg9jZJyw=
+		</data>
+		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
+		<data>
+		xgyfT75flJ0SMIgvpMcfsk5OEKI=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -457,7 +481,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KTC1Jyif7UdaxFGjDA2v11/OPugRWO9ULE2J6K0YKF0=
+			l37j6jlSMFjxc0aeEw94wdcAq9n1vIp1iWisxMP/4/0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -471,7 +495,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PK5/38S5HsHhrzTn0vobQs9Vj6mVw2mZXi0wgYl702g=
+			F0vGnvIC8NqE00BhBqtp8B033zT/JKK0mCH+vEONDD4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -492,7 +516,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IXyzj0HMu8MGQd/J+XeleKvEMpC/XbRERwS5Xt2DiMA=
+			twf1bKszgNT4MjRK8b93nQ2pIz5skjBt5Owr8hN5voI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -513,7 +537,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UuC+/gmRyZU05pkoxQAkgHjm0YHhvxq0TKS4wBoJ3MA=
+			ylGJqbWd+3J50jtJsWuffoHif0fFKTBY7iO4lQqV0+I=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lib/assets/audio/soundEffect.mp3</key>
@@ -717,6 +741,48 @@
 			<key>hash2</key>
 			<data>
 			jvWePImcEekD3DfE9XLItNyAQlbs+OUhgZIEz1RmIsY=
+			</data>
+		</dict>
+		<key>Frameworks/audioplayers.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/p4j1EGreLVdWI2Hbsd6IbUf0FRuIne/0jq1nzr40v0=
+			</data>
+		</dict>
+		<key>Frameworks/audioplayers.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q+kmiTXt3n2oW6a57eUhtxL6AmDhKlMGaUSEa9EN3Q8=
+			</data>
+		</dict>
+		<key>Frameworks/audioplayers.framework/audioplayers</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wbhR+xHTEOOEgqhEYzrtbOvCwFdJi3WuZBLqCpkK3yI=
+			</data>
+		</dict>
+		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			k6XUMAGwCijzjVMFEzn/4CX8PqmHxXDqmF8jzpIidSU=
+			</data>
+		</dict>
+		<key>Frameworks/path_provider_ios.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cVtKwOyf5xLurq+Ia+FSCOWeQ4uvoGE0+k5ReQEqaJM=
+			</data>
+		</dict>
+		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Jn81Xw7g4knVxlHtUD3pF12DX0iPdhkYFotw7FQrNqE=
 			</data>
 		</dict>
 	</dict>
