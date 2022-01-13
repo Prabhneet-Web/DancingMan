@@ -1,5 +1,5 @@
+import 'package:audioplayers/audioplayers.dart';
 import "package:flutter/material.dart";
-import 'package:audioplayer/audioplayer.dart';
 
 class DancingMan extends StatefulWidget {
   const DancingMan({Key? key}) : super(key: key);
@@ -11,6 +11,8 @@ class DancingMan extends StatefulWidget {
 class _DancingManState extends State<DancingMan>
     with SingleTickerProviderStateMixin {
   bool _isDancing = true;
+  AudioPlayer audioPlayer = AudioPlayer();
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -25,6 +27,9 @@ class _DancingManState extends State<DancingMan>
               });
             } else {
               setState(() {
+                final player = AudioCache();
+                player.play('lib/assets/audio/discoDancing.mp3');
+
                 _isDancing = true;
               });
             }
