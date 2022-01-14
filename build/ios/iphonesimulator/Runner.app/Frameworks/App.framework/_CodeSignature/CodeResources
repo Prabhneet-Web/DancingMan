@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		3skqkFdeijsFEHq8lYkc3LPbrOs=
+		DOJKcOkvoSAMBJISckS/cf9FZu0=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -19,6 +19,10 @@
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
 		11GcG29yXgKc5JzSF/dZ+JtuxRM=
+		</data>
+		<key>flutter_assets/assets/discoDancing.mp3</key>
+		<data>
+		2ox3wOtrhnwTGgdeZcvq+xjjDYk=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -30,7 +34,11 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		0/vk6H3f0sMOVxoUtCx5Z89XUHM=
+		HSNRjZ8UH34JJUMwqa6Ukv7piso=
+		</data>
+		<key>flutter_assets/lib/assets/audio/discoDancing.mp3</key>
+		<data>
+		2ox3wOtrhnwTGgdeZcvq+xjjDYk=
 		</data>
 		<key>flutter_assets/lib/assets/audio/soundEffect.mp3</key>
 		<data>
@@ -59,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JPnoe1v+AYJpIx+rt+IGTjLaWhUHOhE27qZaJ5hFfNg=
+			gDVLmOY5/tUetJYJQTx+5kUUwv0i63yA9ln4knnOXGM=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -74,6 +82,13 @@
 			<key>hash2</key>
 			<data>
 			twf1bKszgNT4MjRK8b93nQ2pIz5skjBt5Owr8hN5voI=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/discoDancing.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ow18xon9Vr/kaVIl6CX/mkeHTGDhkQgLITCIKEH/5Zc=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -94,7 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ylGJqbWd+3J50jtJsWuffoHif0fFKTBY7iO4lQqV0+I=
+			AqkMB/k4Z+9MnMMLFbWOvlioxcwKefkyZtC/SlBkK/c=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/audio/discoDancing.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ow18xon9Vr/kaVIl6CX/mkeHTGDhkQgLITCIKEH/5Zc=
 			</data>
 		</dict>
 		<key>flutter_assets/lib/assets/audio/soundEffect.mp3</key>
