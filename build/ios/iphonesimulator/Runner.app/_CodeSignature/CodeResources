@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		iiWt2aXK4+GnTjM8Ppx0OMUm0fM=
+		9Kj40kbkF+inD+yNx6a4tjCDgxM=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		PVkuzlSxnfTPjUseIxL9o1zJax4=
+		7ikKIqNA4yv9fkx9l4+PiAywrRw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		3skqkFdeijsFEHq8lYkc3LPbrOs=
+		DOJKcOkvoSAMBJISckS/cf9FZu0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -142,7 +142,11 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		0/vk6H3f0sMOVxoUtCx5Z89XUHM=
+		HSNRjZ8UH34JJUMwqa6Ukv7piso=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/lib/assets/audio/discoDancing.mp3</key>
+		<data>
+		2ox3wOtrhnwTGgdeZcvq+xjjDYk=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lib/assets/audio/soundEffect.mp3</key>
 		<data>
@@ -270,7 +274,7 @@
 		</data>
 		<key>Frameworks/audioplayers.framework/audioplayers</key>
 		<data>
-		mAKTpdfcsX0h71f5n7Wnrm9W2Zw=
+		LyF6J5qCrQVJp+Jh8jhb0xejfFs=
 		</data>
 		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
 		<data>
@@ -282,11 +286,11 @@
 		</data>
 		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
 		<data>
-		xgyfT75flJ0SMIgvpMcfsk5OEKI=
+		daq6tGolTzmyFAEQp0ScuyZdjvc=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Pue8EpO2I7Wyi2xaXiZdfSa71Ko=
+		w5xIqEXTl0NrBixtr2700wjTxMU=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -481,7 +485,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l37j6jlSMFjxc0aeEw94wdcAq9n1vIp1iWisxMP/4/0=
+			fCtK6rgkmntKLDqlO4IlAd12m6i8tul67yShta1FUHA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -495,14 +499,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			F0vGnvIC8NqE00BhBqtp8B033zT/JKK0mCH+vEONDD4=
+			Wt0WI1i6ptbMkU+/EDkHYQsC4bEdfCNKhQVOP+NhiM0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JPnoe1v+AYJpIx+rt+IGTjLaWhUHOhE27qZaJ5hFfNg=
+			gDVLmOY5/tUetJYJQTx+5kUUwv0i63yA9ln4knnOXGM=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -537,7 +541,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ylGJqbWd+3J50jtJsWuffoHif0fFKTBY7iO4lQqV0+I=
+			AqkMB/k4Z+9MnMMLFbWOvlioxcwKefkyZtC/SlBkK/c=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/lib/assets/audio/discoDancing.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ow18xon9Vr/kaVIl6CX/mkeHTGDhkQgLITCIKEH/5Zc=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lib/assets/audio/soundEffect.mp3</key>
@@ -761,7 +772,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wbhR+xHTEOOEgqhEYzrtbOvCwFdJi3WuZBLqCpkK3yI=
+			Qi93800Bsi9TuuXx+AEx6J8ySO1yNuj6j7fgevEunLc=
 			</data>
 		</dict>
 		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
@@ -782,7 +793,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jn81Xw7g4knVxlHtUD3pF12DX0iPdhkYFotw7FQrNqE=
+			O76Au2Q9rZfMk7Zti3SZDOGH5cRla0OHsskIB/YEfuM=
 			</data>
 		</dict>
 	</dict>

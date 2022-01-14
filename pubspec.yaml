@@ -63,6 +63,7 @@ flutter:
     - lib/assets/images/dancingCartoon.gif
     - lib/assets/images/stopCartoon.jpg
     - lib/assets/audio/soundEffect.mp3
+    - lib/assets/audio/discoDancing.mp3
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

@@ -10,8 +10,9 @@ class DancingMan extends StatefulWidget {
 
 class _DancingManState extends State<DancingMan>
     with SingleTickerProviderStateMixin {
-  bool _isDancing = true;
+  bool _isDancing = false;
   AudioPlayer audioPlayer = AudioPlayer();
+  AudioCache player = AudioCache();
 
   @override
   Widget build(BuildContext context) {
@@ -27,9 +28,8 @@ class _DancingManState extends State<DancingMan>
               });
             } else {
               setState(() {
-                final player = AudioCache();
-                player.play('lib/assets/audio/discoDancing.mp3');
-
+                final player = AudioCache(prefix: 'lib/assets/audio/');
+                player.play('discoDancing.mp3');
                 _isDancing = true;
               });
             }
